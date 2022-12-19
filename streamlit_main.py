@@ -4,8 +4,16 @@ import pandas
 
 streamlit.title('👿 Anaya and Zavi Pocket Money 👿 ')
 
-todays_date = date.today()
+now = datetime.now() # current date and time
 
-printme = "Today is" + todays_date
+year = now.strftime("%Y")
+print("year:", year)
 
-streamlit.header(printme)
+month = now.strftime("%m")
+print("month:", month)
+
+day = now.strftime("%d")
+print("day:", day)
+
+time = now.strftime("%H:%M:%S")
+print("time:", time)
