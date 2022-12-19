@@ -1,7 +1,7 @@
 import streamlit
-from datetime import date
+from datetime
 import pandas
 
 streamlit.title('👿 Anaya and Zavi Pocket Money 👿 ')
 
-print("Hello World")
+todays_date = datetime.datetime.now().strftime("%Y-%m-%d")
