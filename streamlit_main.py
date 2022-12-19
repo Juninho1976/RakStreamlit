@@ -4,4 +4,4 @@ import pandas
 
 streamlit.title('👿 Anaya and Zavi Pocket Money 👿 ')
 
-print("Hellow World"
+print("Hello World")
