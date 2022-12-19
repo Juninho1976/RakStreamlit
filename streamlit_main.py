@@ -6,6 +6,6 @@ streamlit.title('👿 Anaya and Zavi Pocket Money 👿 ')
 
 todays_date = date.today()
 
-printme = 'Today is' + todays_date
+printme = "Today is" + todays_date
 
 streamlit.header(printme)
