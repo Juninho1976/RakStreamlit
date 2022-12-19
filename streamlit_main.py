@@ -18,7 +18,11 @@ st.header('-----------------------')
 
 st.header('Zavi has £10')
 
+st.header('-----------------------')
 
 
 
-st.text('Caroline smells like poo')
+
+
+
+st.text('Caroline smells like poo ;)')
