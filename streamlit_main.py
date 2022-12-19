@@ -1,5 +1,5 @@
 import streamlit
-from datetime
+import datetime
 import pandas
 
 streamlit.title('👿 Anaya and Zavi Pocket Money 👿 ')
