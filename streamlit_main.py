@@ -21,12 +21,4 @@ st.header('Zavi has £10')
 st.header('-----------------------')
 
 
-
-
-st.text('Caroline smells like poo ;)')
-
-st.text('This is pretty amazing')
-
-st.text('How well does this work')
-
-st.text("running from my ipad")
+st.text('❤️ I love it!!! ❤️ ')
