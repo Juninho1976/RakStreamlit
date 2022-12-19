@@ -4,8 +4,8 @@ import pandas
 
 streamlit.title('👿 Anaya and Zavi Pocket Money 👿 ')
 
-today = date.today()
+todays_date = date.today()
 
-printme = 'Today is'
+printme = 'Today is' + todays_date
 
 streamlit.header(printme)
